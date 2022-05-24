@@ -1,0 +1,19 @@
+{
+  "FilePath": "c:\\Users\\Knilip\\Desktop\\Wichtig\\Studium\\7. Semester\\Spezielle Anwendungen der Informatik\\Test\\Assembly-CSharp.csproj",
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  },
+  "ProjectWorkspaceState": {
+    "TagHelpers": [],
+    "CSharpLanguageVersion": 900
+  },
+  "RootNamespace": null,
+  "Documents": [],
+  "SerializationFormat": "0.2"
+}
